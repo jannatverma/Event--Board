@@ -1,0 +1,31 @@
+
+[
+  {
+    "id": 1,
+    "title": "Web Development Workshop",
+    "date": "2026-11-10",
+    "seats": 30,
+    "online": true
+  },
+  {
+    "id": 2,
+    "title": "Cyber Security Seminar",
+    "date": "2026-11-12",
+    "seats": 25,
+    "online": false
+  },
+  {
+    "id": 3,
+    "title": "AI and Machine Learning",
+    "date": "2026-11-15",
+    "seats": 40,
+    "online": true
+  },
+  {
+    "id": 4,
+    "title": "Programming Competition",
+    "date": "2026-11-18",
+    "seats": 50,
+    "online": false
+  }
+]

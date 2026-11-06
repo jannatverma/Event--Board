@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+
+  <event id="1">
+    <title>Web Development Workshop</title>
+    <date>2026-11-10</date>
+    <seats>30</seats>
+    <free>true</free>
+  </event>
+
+  <event id="2">
+    <title>Cyber Security Seminar</title>
+    <date>2026-11-12</date>
+    <seats>25</seats>
+    <free>false</free>
+  </event>
+
+  <event id="3">
+    <title>AI and Machine Learning</title>
+    <date>2026-11-15</date>
+    <seats>40</seats>
+    <free>true</free>
+  </event>
+
+  <event id="4">
+    <title>Programming Competition</title>
+    <date>2026-11-18</date>
+    <seats>50</seats>
+    <free>false</free>
+  </event>
+
+</events>
