@@ -159,7 +159,7 @@ After completing these assignments, I learned:
 ## 10. GitHub Repository
 
 - **Repository link:** https://github.com/jannatverma/event-board
-- **GitHub Pages link:** 
+- **GitHub Pages link:** https://jannatverma.github.io/event-board/
 
 The repository contains the project files and an updated README. Changes are maintained with readable commit messages.
 
